@@ -5,6 +5,7 @@
 2. In the terminal write __"Python3 main.py"__
     EX: In Factorials_L01 this command would run the following 
         ```
+
         # 1. Iterative method
 
         def iterative_factorial(n):
@@ -15,9 +16,11 @@
 
         print(iterative_factorial(5))
         # Answer 120
+
         ```
         
         ```
+
         # 2. Recursive method
 
         def recursive_factorial(n):
@@ -30,4 +33,5 @@
 
         print(recursive_factorial(4))
         # Answer 24
+        
         ```
