@@ -5,7 +5,9 @@
 2. In the terminal write __"Python3 main.py"__
     EX: In Factorials_L01 this command would run the following 
 
-        ```
+        ```python
+
+        # THESE HAVE ALL BEEN COMMENTED OUT IN THE EX FOLDER
 
         # 1. Iterative method
 
@@ -42,3 +44,4 @@
         print(recursive_factorial(3))
         # Answer 6
         ```
+3. 
