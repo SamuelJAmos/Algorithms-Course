@@ -1,1 +1,1 @@
-# Code inside of Permutations/main.py
+# Video [timestamp](https://www.youtube.com/watch?v=fW_OS3LGB9Q&t=897s "0:14:57")
