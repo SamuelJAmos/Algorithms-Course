@@ -1,6 +1,11 @@
 # FreeCodeCamp.org's Algorithms in Python [Course](https://www.youtube.com/watch?v=fW_OS3LGB9Q "Algorithms in Python – Full Course for Beginners")
-
-## Course Content
+## 5 Main Takeaways 
+1. Simple recursive algorithms.
+2. Data structures.
+3. Divide & conquer.
+4. Greedy algorithms.
+5. Dynamic programming.
+### Course Content
 1. (0:00:00) Intro & course overview 
 2. (0:07:07) Factorials refresher
 3. (0:10:04) CODING CHALLENGE: Factorial program using iteration, recursion
