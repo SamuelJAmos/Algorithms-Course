@@ -4,7 +4,7 @@
     EX: Factorials_L01
 2. In the terminal write __"Python3 main.py"__
     EX: In Factorials_L01 this command would run the following 
-    
+
         ```
 
         # 1. Iterative method
@@ -18,9 +18,7 @@
         print(iterative_factorial(5))
         # Answer 120
 
-        ```
-        
-        ```
+
 
         # 2. Recursive method
 
@@ -35,4 +33,12 @@
         print(recursive_factorial(4))
         # Answer 24
 
+        # 3. Shorthand recursive method
+
+        def recursive_factorial(n):
+            if n == 1: return n
+            else: return n * recursive_factorial(n-1)
+
+        print(recursive_factorial(3))
+        # Answer 6
         ```
