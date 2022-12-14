@@ -12,7 +12,7 @@
 9. (0:24:49) Lesson recap
 10. (0:26:11) What are data structures?
 11. (0:27:53) What is a one-dimensional array?
-12. ⌨️ (0:29:01) Search & sort
+12. (0:29:01) Search & sort
 13. (0:30:39) CODING CHALLENGE: Linear search
 14. (0:31:00) Binary search
 15. (0:32:06) CODING CHALLENGE: Iterative binary search
