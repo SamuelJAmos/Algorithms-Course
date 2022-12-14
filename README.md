@@ -1,4 +1,4 @@
-# FreeCodeCamp.org's Algorithms in Python [Course](https://www.youtube.com/watch?v=fW_OS3LGB9Q "Algorithms in Python – Full Course for Beginners")
+# FreeCodeCamp.org's "Algorithms in Python [Course"](https://www.youtube.com/watch?v=fW_OS3LGB9Q "Algorithms in Python – Full Course for Beginners")
 ## 5 Main Takeaways 
 1. Simple recursive algorithms.
 2. Data structures.
